@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ay0788
+- 👋 Hi, I’m @ay0788/n
 👀 I’m interested in technology and innovation.
 🌱 I’m currently learning about new tech trends and how to integrate AI into creative projects.
 💞️ I’m looking to collaborate on projects that merge technology with design to create unique solutions.
