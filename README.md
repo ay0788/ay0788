@@ -103,13 +103,13 @@
 
 
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote :
 
 <div align="center">
   <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
 </div>
 
-# 🌐 My Language Palette & GitHub Journey
+# 🌐 My Language Palette & GitHub Journey :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ay0788&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
