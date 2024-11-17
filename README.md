@@ -1,5 +1,11 @@
 👋 Hi, I’m @ay0788
+
+
+
 👀 Passionate about tech and creative innovation.
+
+
+
 🌱 Currently diving deep into AI and data science to fuel impactful projects.
 💞️ Excited to collaborate on initiatives blending technology with creativity to solve real-world problems.
 📫 Reach me at SDOURAYA3@GMAIL.COM or connect with me here!
