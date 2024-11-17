@@ -108,7 +108,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)"  />
+  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
 </div>
 
 ###
