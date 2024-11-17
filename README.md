@@ -3,8 +3,7 @@
 👋 Hi, I’m Aya SDOUR<br><br>👀 Passionate about tech and creative innovation.<br><br>🌱 Currently diving deep into AI and data science to fuel impactful projects.<br><br>💞️ Excited to collaborate on initiatives blending technology with creativity to solve real-world problems.<br><br>📫 Reach me at SDOURAYA3@GMAIL.COM or connect with me here!<br><br>⚡ Fun fact: I believe every challenge is just an opportunity to build something extraordinary with technology!
 
 
-## 🌐 Socials:
-###
+# 🌐 Socials:
 
 <div align="center">
   <a href="www.linkedin.com/in/aya-s-689519327" target="_blank">
@@ -104,13 +103,13 @@
 
 
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <div align="center">
   <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
 </div>
 
-###
+# 🌐 My Language Palette & GitHub Journey
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ay0788&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
