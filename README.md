@@ -1,4 +1,4 @@
-👋 Hi, I’m @ay0788
+👋 Hi, I’m Aya SDOUR
 
 
 👀 Passionate about tech and creative innovation.
