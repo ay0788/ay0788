@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m Aya SDOUR<br><br>👀 Passionate about tech and creative innovation.<br><br>🌱 Currently diving deep into AI and data science to fuel impactful projects.<br><br>💞️ Excited to collaborate on initiatives blending technology with creativity to solve real-world problems.<br><br>⚡ Fun fact: I believe every challenge is just an opportunity to build something extraordinary with technology!
+👋 Hi, I’m Aya<br><br>👀 Passionate about tech and creative innovation.<br><br>🌱 Currently diving deep into AI and data science to fuel impactful projects.<br><br>💞️ Excited to collaborate on initiatives blending technology with creativity to solve real-world problems.<br><br>⚡ Fun fact: I believe every challenge is just an opportunity to build something extraordinary with technology!
 
 
 # 🌐 Socials:
