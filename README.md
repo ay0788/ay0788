@@ -1,105 +1,59 @@
-<div align="center">
+# Hey, I'm Aya! 👋
 
-```
-╔═══════════════════════════════════════════════════╗
-║          aya@portfolio ~ profile.sh               ║
-╚═══════════════════════════════════════════════════╝
-```
+> *"Every challenge is just an opportunity to build something extraordinary with technology!"*
 
-</div>
+I'm a passionate tech enthusiast diving deep into **AI & Data Science**, blending creativity with innovation to build impactful projects. Always learning, always building. 🚀
 
 ---
 
-<div align="center">
+## 🧠 About Me
 
-# AYA BUILDS. ⚡
-
-**`AI Explorer · Creative Technologist · Builder`**
-
-</div>
-
----
-
-```bash
-$ whoami
-Aya — AI Explorer & Creative Technologist
-Location : Casablanca, MA  |  Status: Open to collabs ✅
-Stack    : Python · ML · Data Science · Creative Tech
-
-$ cat mission.txt
-"Every challenge is just an opportunity
- to build something extraordinary." — Aya █
-```
+- 👀 Passionate about tech and creative innovation
+- 🌱 Currently deep-diving into **AI & Data Science**
+- 💞️ Open to collaborating on projects that blend technology with creativity
+- ⚡ Fun fact: I turn every challenge into an opportunity to build something extraordinary
 
 ---
 
-<br>
+## 🛠️ Tech Stack
 
-<div align="center">
-
-![AI & Data Science](https://img.shields.io/badge/AI%20%26%20Data%20Science-FFB800?style=for-the-badge&logoColor=black)
-![Tech x Creativity](https://img.shields.io/badge/Tech%20x%20Creativity-0d0d0d?style=for-the-badge&logoColor=white)
-![Real--world Impact](https://img.shields.io/badge/Real--world%20Impact-28c840?style=for-the-badge&logoColor=black)
-![Always Learning](https://img.shields.io/badge/Always%20Learning-5865F2?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📁 `profile/facts.json`
+## 🌐 Connect With Me
 
-```json
-{
-  "01_passion"  : "Where technology meets creative innovation — that's where I thrive.",
-  "02_focus"    : "Deep-diving into AI & data science to fuel impactful projects.",
-  "03_collab"   : "Looking to team up on tech + creativity initiatives that solve real problems.",
-  "04_fun_fact" : "Sees every obstacle as raw material to build something extraordinary."
-}
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-s-689519327)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/688852585071116289/1059941605110468668)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/ayasd4)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://app.slack.com/client/T064SFP56MC)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)
 
 ---
 
-## 🌐 `connect --all`
+## 📊 GitHub Stats
 
-<div align="center">
+![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-s-689519327)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/688852585071116289/1059941605110468668)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ayasd4)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T064SFP56MC)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/dashboard)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## ✍️ `quote --random`
+## 🔥 Streak
 
-> *"First, solve the problem. Then, write the code. The best developers aren't those who know every syntax — they're the ones who never stop building."*
-
----
-
-<div align="center">
-
-<img src="https://i.imgflip.com/65efzo.gif" width="400" alt="coding gif" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-<div align="center">
+## ✍️ Dev Quote of the Day
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFB800&icon_color=28c840&text_color=ffffff)
-
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<div align="center">
-
-🟢 **ONLINE & BUILDING** — always open to collabs, ideas, and opportunities.
-
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
