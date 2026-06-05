@@ -1,6 +1,5 @@
 # Hey, I'm Aya! 👋
 
-> *"Every challenge is just an opportunity to build something extraordinary with technology!"*
 
 I'm a passionate tech enthusiast diving deep into **AI & Data Science**, blending creativity with innovation to build impactful projects. Always learning, always building. 🚀
 
@@ -33,12 +32,6 @@ I'm a passionate tech enthusiast diving deep into **AI & Data Science**, blendin
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/ayasd4)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://app.slack.com/client/T064SFP56MC)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)
-
----
-
-## 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
