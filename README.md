@@ -1,44 +1,121 @@
-# Hey, I'm Aya! 👋
+<div align="center">
 
 
-I'm a passionate tech enthusiast diving deep into **AI & Data Science**, blending creativity with innovation to build impactful projects. Always learning, always building. 🚀
 
----
 
-## 🧠 About Me
 
-- 👀 Passionate about tech and creative innovation
-- 🌱 Currently deep-diving into **AI & Data Science**
-- 💞️ Open to collaborating on projects that blend technology with creativity
-- ⚡ Fun fact: I turn every challenge into an opportunity to build something extraordinary
+<a href="https://www.linkedin.com/in/aya-s-689519327"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitch.tv/ayasd4"><img src="https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 
----
+</div>
 
-## 🛠️ Tech Stack
+👩‍💻 A little about me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+aya = {
+    "role": "AI & Data Science Engineering Student",
+    "based_in": "Rabat, Morocco 🇲🇦",
+    "interests": ["Artificial Intelligence", "NLP", "RAG", "Data Science"],
+    "currently_building": ["BASIRA", "Questionnaire Harmonization Systems"],
+    "leadership": "President of CODE Club",
+    "mission": "Build responsible technology with meaningful human impact",
+    "motto": "Learn deeply. Build boldly. Share generously."
+}
 
----
+I enjoy transforming ambitious ideas into useful systems—from intelligent reading assistance and multilingual AI to semantic search and data harmonization. I’m especially interested in projects where research, engineering, and creativity meet.
 
-## 🌐 Connect With Me
+🚀 What I’m working on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-s-689519327)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/688852585071116289/1059941605110468668)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/ayasd4)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://app.slack.com/client/T064SFP56MC)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)
+Project
 
----
+Focus
 
-## ✍️ Dev Quote of the Day
+Technologies
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+BASIRA
 
----
+AI-powered adaptive reading assistance for learners with dyslexia
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+AI, RAG, STT/TTS, React, FastAPI
+
+Questionnaire Harmonization
+
+Detecting equivalent multilingual questions and unifying survey responses
+
+BM25, BGE-M3, RRF, Cross-Encoders
+
+Arabic Speech AI
+
+Exploring efficient MSA and Moroccan Darija text-to-speech adaptation
+
+PyTorch, Transformers, TTS
+
+🧰 My creative toolbox
+
+<div align="center">
+
+Languages & Data
+
+
+
+
+
+
+
+AI & Machine Learning
+
+
+
+
+
+
+
+Engineering
+
+
+
+
+
+
+
+
+</div>
+
+📊 GitHub at a glance
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ay0788&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aya's GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay0788&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aya's most used languages">
+
+<br>
+
+
+
+</div>
+
+🌱 Beyond the code
+
+🎓 Engineering student specializing in Knowledge Engineering & Data Science
+
+🔬 Interested in research at the intersection of AI, accessibility, and education
+
+👩‍💼 President of CODE Club, helping students learn, connect, and build
+
+🤝 Open to AI research, data science, NLP, and socially impactful collaborations
+
+💡 I believe the best technology is not only intelligent—it is inclusive and useful
+
+💬 Let’s build something meaningful
+
+Have an idea involving AI, data, education, accessibility, or creative technology? I’d love to connect, exchange ideas, and explore what we can create together.
+
+<div align="center">
+
+✨ “Curiosity starts the journey; courage turns it into innovation.”
+
+
+
+
+
+</div>
