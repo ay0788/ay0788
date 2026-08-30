@@ -21,7 +21,7 @@ aya = {
 
 I enjoy transforming ambitious ideas into useful systems—from intelligent reading assistance and multilingual AI to semantic search and data harmonization. I’m especially interested in projects where **research, engineering, and creativity** meet.
 
-## 🧰 My creative toolbox
+## 🧰 My toolbox
 
 <div align="center">
 
