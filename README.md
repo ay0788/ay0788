@@ -12,9 +12,8 @@
 aya = {
     "role": "AI & Data Science Engineering Student",
     "based_in": "Rabat, Morocco 🇲🇦",
-    "interests": ["Artificial Intelligence", "NLP", "RAG", "Data Science"],
+    "interests": ["Artificial Intelligence", "NLP", "RAG", "Data Science","Data engineering" ],
     "currently_building": ["BASIRA", "Questionnaire Harmonization Systems"],
-    "leadership": "President of CODE Club",
     "mission": "Build responsible technology with meaningful human impact",
     "motto": "Learn deeply. Build boldly. Share generously."
 }
@@ -48,7 +47,6 @@ I enjoy transforming ambitious ideas into useful systems—from intelligent read
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Engineering
 
@@ -76,11 +74,10 @@ I enjoy transforming ambitious ideas into useful systems—from intelligent read
 
 ## 🌱 Beyond the code
 
-- 🎓 Engineering student specializing in **Knowledge Engineering & Data Science**
-- 🔬 Interested in research at the intersection of **AI, accessibility, and education**
-- 👩‍💼 President of **CODE Club**, helping students learn, connect, and build
-- 🤝 Open to AI research, data science, NLP, and socially impactful collaborations
-- 💡 I believe the best technology is not only intelligent—it is inclusive and useful
+-  Engineering student specializing in **Knowledge Engineering & Data Science**
+-  Interested in research at the intersection of **AI, Data engineering, and related fields**
+-  Open to AI , data science, Data engineering, and socially impactful collaborations
+-  I believe the best technology is not only intelligent—it is inclusive and useful
 
 ## 💬 Let’s build something meaningful
 
