@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?...type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=230&section=header&text=Aya%20Sdour&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20in%20the%20Making&descAlignY=57&descSize=19)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=230&section=header&text=Aya%20Sdour&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20in%20the%20Making&descAlignY=57&descSize=19)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B967FF&center=true&vCenter=true&width=750&lines=Turning+data+into+intelligent+solutions+%F0%9F%A7%A0;Building+AI+for+meaningful+human+impact+%F0%9F%8C%8D;Researching%2C+learning%2C+and+creating+every+day+%E2%9C%A8)](https://git.io/typing-svg)
 
