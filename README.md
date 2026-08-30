@@ -21,14 +21,6 @@ aya = {
 
 I enjoy transforming ambitious ideas into useful systems—from intelligent reading assistance and multilingual AI to semantic search and data harmonization. I’m especially interested in projects where **research, engineering, and creativity** meet.
 
-## 🚀 What I’m working on
-
-| Project | Focus | Technologies |
-| :--- | :--- | :--- |
-| **BASIRA** | AI-powered adaptive reading assistance for learners with dyslexia | AI, RAG, STT/TTS, React, FastAPI |
-| **Questionnaire Harmonization** | Detecting equivalent multilingual questions and unifying survey responses | BM25, BGE-M3, RRF, Cross-Encoders |
-| **Arabic Speech AI** | Exploring efficient MSA and Moroccan Darija text-to-speech adaptation | PyTorch, Transformers, TTS |
-
 ## 🧰 My creative toolbox
 
 <div align="center">
