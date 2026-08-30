@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B967FF&center=true&vCenter=true&width=750&lines=Turning+data+into+intelligent+solutions+%F0%9F%A7%A0;Building+AI+for+meaningful+human+impact+%F0%9F%8C%8D;Researching%2C+learning%2C+and+creating+every+day+%E2%9C%A8)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/aya-s-689519327"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitch.tv/ayasd4"><img src="https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-<a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 
 </div>
 
