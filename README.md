@@ -53,10 +53,7 @@ I enjoy transforming ambitious ideas into useful systems—from intelligent read
 
 ## 📊 GitHub at a glance
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ay0788&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aya's GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay0788&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aya's most used languages">
 
 <br>
 
