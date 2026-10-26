@@ -12,8 +12,7 @@
 aya = {
     "role": "AI & Data Science Engineering Student",
     "based_in": "Rabat, Morocco 🇲🇦",
-    "interests": ["Artificial Intelligence", "NLP", "RAG", "Data Science","Data engineering" ],
-    "currently_building": ["BASIRA", "Questionnaire Harmonization Systems"],
+    "interests": ["Artificial Intelligence", "NLP", "RAG", "Data Science","Data engineering", "Research" ],
     "mission": "Build responsible technology with meaningful human impact",
     "motto": "Learn deeply. Build boldly. Share generously."
 }
